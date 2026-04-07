@@ -8,19 +8,17 @@ A star-schema data warehouse built from raw sales CSVs, with a Python ETL pipeli
 - pandas (`pip install -r requirements.txt`)
 
 ## Setup & Run
-
+P
 ```bash
 # 1. Create and activate a virtual environment
 python3 -m venv .venv
-source .venv/bin/activate      # Windows: .venv\Scripts\activate
+source .venv/bin/activate           # Windows: .venv\Scripts\activate
 
 # 2. Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt     # or: pip3 install -r requirements.txt
 
 # 3. Run the ETL pipeline
-python pipeline.py
-# if the above doesn't work, try:
-python3 pipeline.py
+python pipeline.py                  # or: python3 pipeline.py
 ```
 
 The pipeline reads from `data/`, creates `warehouse.db` in the project root, and prints a row-count summary on completion. Running it multiple times is safe — it will not duplicate data.
