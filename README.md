@@ -8,7 +8,7 @@ A star-schema data warehouse built from raw sales CSVs, with a Python ETL pipeli
 - pandas (`pip install -r requirements.txt`)
 
 ## Setup & Run
-P
+
 ```bash
 # 1. Create and activate a virtual environment
 python3 -m venv .venv
