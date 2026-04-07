@@ -19,6 +19,8 @@ pip install -r requirements.txt
 
 # 3. Run the ETL pipeline
 python pipeline.py
+# if the above doesn't work, try:
+python3 pipeline.py
 ```
 
 The pipeline reads from `data/`, creates `warehouse.db` in the project root, and prints a row-count summary on completion. Running it multiple times is safe — it will not duplicate data.
