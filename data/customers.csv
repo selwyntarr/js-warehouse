@@ -1,0 +1,41 @@
+customer_id,name,email,city,state,signup_date,segment
+C01,James Doe,james.doe1@email.com,Miami,FL,2022-04-15,standard
+C02,Andrew Garcia,andrew.garcia2@email.com,Tucson,AZ,2022-04-06,premium
+C03,Sarah Davis,sarah.davis3@email.com,Cincinnati,OH,2022-07-23,premium
+C04,Andrew Thomas,andrew.thomas4@email.com,Buffalo,NY,2022-01-07,standard
+C05,Michael Thomas,michael.thomas5@email.com,Spokane,WA,2022-12-11,premium
+C06,James Garcia,james.garcia6@email.com,Chicago,IL,2022-12-19,standard
+C07,Ryan Miller,ryan.miller7@email.com,Dallas,TX,2022-05-08,standard
+C08,Amanda Garcia,amanda.garcia8@email.com,Cleveland,OH,2023-01-06,new
+C09,Brittany Jones,brittany.jones9@email.com,Denver,CO,2022-10-24,standard
+C10,Maria Davis,maria.davis10@email.com,Boulder,CO,2023-01-09,standard
+C11,Michael Taylor,michael.taylor11@email.com,Seattle,WA,2022-03-15,standard
+C12,Ryan Brown,ryan.brown12@email.com,Cincinnati,OH,2023-04-19,standard
+C13,Amanda Miller,amanda.miller13@email.com,Columbus,OH,2022-02-27,standard
+C14,David Smith,david.smith14@email.com,Spokane,WA,2022-08-05,standard
+C15,Brittany Moore,brittany.moore15@email.com,Albany,NY,2023-04-15,standard
+C16,Emily Miller,emily.miller16@email.com,Los Angeles,CA,2023-07-06,new
+C17,Linda Thompson,linda.thompson17@email.com,Rockford,IL,2022-08-13,standard
+C18,Emily Harris,emily.harris18@email.com,Atlanta,GA,2022-04-23,new
+C19,Emily Brown,emily.brown19@email.com,Rockford,IL,2023-01-26,premium
+C20,Ryan Jackson,ryan.jackson20@email.com,Cleveland,OH,2022-01-12,new
+C21,James Martin,james.martin21@email.com,Tampa,FL,2022-10-28,standard
+C22,Joshua Brown,joshua.brown22@email.com,Atlanta,GA,2022-09-27,new
+C23,Megan Brown,megan.brown23@email.com,Columbus,OH,2022-11-02,new
+C24,Megan Lee,megan.lee24@email.com,New York,NY,2022-06-15,standard
+C25,Andrew Harris,andrew.harris25@email.com,Dallas,TX,2022-01-20,standard
+C26,James Taylor,james.taylor26@email.com,Miami,FL,2023-08-04,premium
+C27,Maria Garcia,maria.garcia27@email.com,Atlanta,GA,2023-06-30,new
+C28,Emily Williams,emily.williams28@email.com,Augusta,GA,2023-06-25,premium
+C29,Ryan Thomas,ryan.thomas29@email.com,Albany,NY,2022-07-25,new
+C30,Chris Anderson,chris.anderson30@email.com,Spokane,WA,2023-04-08,new
+C31,James Davis,james.davis31@email.com,New York,NY,2023-07-22,standard
+C32,David Thompson,david.thompson32@email.com,New York,NY,2022-03-02,premium
+C33,David Garcia,david.garcia33@email.com,Houston,TX,2022-09-01,premium
+C34,Linda White,linda.white34@email.com,Albany,NY,2023-08-08,premium
+C35,Brittany White,brittany.white35@email.com,Buffalo,NY,2022-07-14,new
+C36,James Johnson,james.johnson36@email.com,Naperville,IL,2023-04-24,standard
+C37,John Johnson,john.johnson37@email.com,Houston,TX,2022-04-22,new
+C38,David Jones,david.jones38@email.com,Albany,NY,2023-03-09,standard
+C39,Michael Miller,michael.miller39@email.com,Atlanta,GA,2022-03-19,new
+C40,Jessica Martin,jessica.martin40@email.com,Denver,CO,2023-07-08,standard

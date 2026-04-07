@@ -1,0 +1,16 @@
+product_id,product_name,category,subcategory,cost_price
+P01,Wireless Headphones,Electronics,Audio,22.0
+P02,Running Shoes,Apparel,Footwear,60.0
+P03,Yoga Mat,Sports,Fitness,8.0
+P04,Coffee Maker,Appliances,Kitchen,35.0
+P05,Bluetooth Speaker,Electronics,Audio,18.0
+P06,Winter Jacket,Apparel,Outerwear,55.0
+P07,Resistance Bands Set,Sports,Fitness,5.0
+P08,Air Fryer,Appliances,Kitchen,42.0
+P09,USB-C Hub,Electronics,Accessories,12.0
+P10,Denim Jeans,Apparel,Bottoms,25.0
+P11,Dumbbells Pair 20lb,Sports,Fitness,30.0
+P12,Instant Pot,Appliances,Kitchen,50.0
+P13,Mechanical Keyboard,Electronics,Computing,40.0
+P14,Fleece Hoodie,Apparel,Tops,20.0
+P15,Foam Roller,Sports,Recovery,7.0
